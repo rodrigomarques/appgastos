@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ContreGastoHinode</string>
+
+    <string name="lblnomeproduto">Nome do produto</string>
+    <string name="lblvalorproduto">Valor do produto</string>
+
+    <string name="lblbtnexcluir">EXCLUIR</string>
+    <string name="lblbtneditar">EDITAR</string>
+
+    <string name="lblproduto">Escolha um produto</string>
+    <string name="lblvalorvenda">Valor de venda</string>
+    <string name="lblispago">Pago</string>
+    <string name="lblisnotpago">Não Pago</string>
+    <string name="lbldtvenda">Data da venda</string>
+    <string name="lbldtpagamento">Data do pagamento</string>
+
+</resources>
